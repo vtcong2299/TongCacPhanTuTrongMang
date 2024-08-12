@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\TongCacPhanTuCuaMang\bin\Debug\net8.0\TongCacPhanTuCuaMang.exe
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\TongCacPhanTuCuaMang\bin\Debug\net8.0\TongCacPhanTuCuaMang.deps.json
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\TongCacPhanTuCuaMang\bin\Debug\net8.0\TongCacPhanTuCuaMang.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\TongCacPhanTuCuaMang\bin\Debug\net8.0\TongCacPhanTuCuaMang.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\TongCacPhanTuCuaMang\bin\Debug\net8.0\TongCacPhanTuCuaMang.pdb
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\TongCacPhanTuCuaMang\obj\Debug\net8.0\TongCacPhanTuCuaMang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\TongCacPhanTuCuaMang\obj\Debug\net8.0\TongCacPhanTuCuaMang.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\TongCacPhanTuCuaMang\obj\Debug\net8.0\TongCacPhanTuCuaMang.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\TongCacPhanTuCuaMang\obj\Debug\net8.0\TongCacPhanTuCuaMang.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\TongCacPhanTuCuaMang\obj\Debug\net8.0\TongCacPhanTuCuaMang.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\TongCacPhanTuCuaMang\obj\Debug\net8.0\refint\TongCacPhanTuCuaMang.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\TongCacPhanTuCuaMang\obj\Debug\net8.0\TongCacPhanTuCuaMang.pdb
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\TongCacPhanTuCuaMang\obj\Debug\net8.0\TongCacPhanTuCuaMang.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\TongCacPhanTuCuaMang\obj\Debug\net8.0\ref\TongCacPhanTuCuaMang.dll
